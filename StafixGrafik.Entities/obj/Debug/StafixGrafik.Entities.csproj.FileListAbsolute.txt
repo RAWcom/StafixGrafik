@@ -1,0 +1,5 @@
+C:\Users\admin3324\Documents\GitHub\StafixGrafik\StafixGrafik\StafixGrafik.Entities\bin\Debug\StafixGrafik.Entities.dll
+C:\Users\admin3324\Documents\GitHub\StafixGrafik\StafixGrafik\StafixGrafik.Entities\bin\Debug\StafixGrafik.Entities.pdb
+C:\Users\admin3324\Documents\GitHub\StafixGrafik\StafixGrafik\StafixGrafik.Entities\obj\Debug\StafixGrafik.Entities.csprojResolveAssemblyReference.cache
+C:\Users\admin3324\Documents\GitHub\StafixGrafik\StafixGrafik\StafixGrafik.Entities\obj\Debug\StafixGrafik.Entities.dll
+C:\Users\admin3324\Documents\GitHub\StafixGrafik\StafixGrafik\StafixGrafik.Entities\obj\Debug\StafixGrafik.Entities.pdb
